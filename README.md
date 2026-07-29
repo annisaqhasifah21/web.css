@@ -1,2 +1,3 @@
-# web.css
-CSS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur desain dan tampilan halaman web. Dengan CSS, pengembang dapat mengubah warna, jenis huruf, ukuran, jarak, serta tata letak berbagai elemen pada website sehingga tampil lebih menarik, konsisten, dan nyaman dilihat oleh pengguna.
+# web.html
+
+> HTML (HyperText Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur halaman web. HTML berfungsi mengatur elemen seperti judul, paragraf, gambar, tabel, tautan, dan formulir agar dapat ditampilkan dengan baik di browser. HTML biasanya dipadukan dengan CSS untuk tampilan dan JavaScript agar halaman menjadi lebih interaktif.
