@@ -1,0 +1,24 @@
+/* CSS - Annisa Qhasifah */
+
+body{
+    font-family: Arial, sans-serif;
+    background:#f8e8f2;
+    margin:0;
+    padding:20px;
+}
+h1{
+    color:#d63384;
+    text-align:center;
+}
+p{
+    color:#444;
+    font-size:18px;
+}
+.container{
+    max-width:700px;
+    margin:auto;
+    background:#fff;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.2);
+}
